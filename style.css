@@ -1,0 +1,36 @@
+body{
+    margin:100px 0 0 0 ;
+    text-align: center;
+}
+header{
+    padding: 10px 5%;
+    background-color:darkblue;
+    color: white;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    
+}
+header>*{
+    display: inline-block;
+    width:450px;
+    
+}
+.emptiness{
+    width:10%;
+}
+header a{
+    text-decoration: none;
+    color: white;
+    margin:0 10px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
